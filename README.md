@@ -1,5 +1,5 @@
-Sketch-iOS-Facebook
-# Sketch-iOS-TETHR-Kit
+#Sketch-iOS-Facebook
+
 
 ![Alt Text](https://github.com/Sketch-MMizogaki/Sketch-iOS-Facebook/blob/master/Facebook.png)  
 
